@@ -43,7 +43,7 @@ cp hive-exec-log4j2.properties.template hive-exec-log4j2.properties
   </property>
 
 ```
-部分配置参考网站：http://www.jianshu.com/p/978a77a1d6a2
+部分配置的参考网站：http://www.jianshu.com/p/978a77a1d6a2
 ## 2. 运行截图
 ### 2.1 进入hive
 ![Image text](https://raw.github.com/cjjloves/Homework7/master/pictures/1.JPG)
