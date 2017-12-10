@@ -62,6 +62,6 @@ cp hive-exec-log4j2.properties.template hive-exec-log4j2.properties
 ![Image text](https://raw.github.com/cjjloves/Homework7/master/pictures/7.JPG)
 ### 2.8 条件查询
 仅当词频大于等于3000时输出  
-![Image text](https://raw.github.com/cjjloves/Homework7/master/pictures/8.JPG)
+![Image text](https://raw.github.com/cjjloves/Homework7/master/pictures/8.JPG)  
 仅当词频大于等于5000时输出  
 ![Image text](https://raw.github.com/cjjloves/Homework7/master/pictures/9.JPG)
