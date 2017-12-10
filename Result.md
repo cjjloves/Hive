@@ -54,14 +54,14 @@ cp hive-exec-log4j2.properties.template hive-exec-log4j2.properties
 ### 2.4 查询default中已存在的表
 ![Image text](https://raw.github.com/cjjloves/Homework7/master/pictures/4.JPG)
 ### 2.5 创建表
-表名：NewWords。第一列名称为count，类型为int，描述为word_frequency；第二列名称为word,类型为string，描述为word value。两列之间的分隔符为\t
+表名：NewWords。第一列名称为count，类型为int，描述为word_frequency；第二列名称为word,类型为string，描述为word value。两列之间的分隔符为\t  
 ![Image text](https://raw.github.com/cjjloves/Homework7/master/pictures/5.JPG)
 ### 2.6 上传txt文件至dfs上
 ![Image text](https://raw.github.com/cjjloves/Homework7/master/pictures/6.JPG)
 ### 2.7 将txt文件导入表NewsWord中
 ![Image text](https://raw.github.com/cjjloves/Homework7/master/pictures/7.JPG)
 ### 2.8 条件查询
-仅当词频大于等于3000时输出
+仅当词频大于等于3000时输出  
 ![Image text](https://raw.github.com/cjjloves/Homework7/master/pictures/8.JPG)
-仅当词频大于等于5000时输出
+仅当词频大于等于5000时输出  
 ![Image text](https://raw.github.com/cjjloves/Homework7/master/pictures/9.JPG)
