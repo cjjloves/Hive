@@ -1,5 +1,5 @@
-# Homework7
-##  1. 配置Hive
+# 配置Hive并进行条件选择
+##  1. 配置Hive
 ### 1.1 修改环境变量
 在/etc/profile/下增加以下内容
 ```
